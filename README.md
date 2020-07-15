@@ -1,4 +1,4 @@
-### Hi there, I'm [Sahil !](https://sahil.codes)👋.<img src="https://raw.githubusercontent.com/boyknowstech/boyknowstech/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Sahil !](https://sahil.codes)🙋‍♂️<img src="https://raw.githubusercontent.com/boyknowstech/boyknowstech/master/svg/pronouns/hehim.svg" >
 
 <a href="https://twitter.com/sahilkathoke">
   <img align="left" alt="Sahil Kathoke| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,9 +17,7 @@
 
 <br />
 
-*******************
-
-### Hi, 🙋‍♂️, 
+******************* 
 
 ### I'm 21 years old Self-taught Full-Stack developer from India.
 <br />
@@ -44,8 +42,8 @@
 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/boyknowstech/boyknowstech/blob/master/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://github.com/boyknowstech/boyknowstech/blob/master/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 </p>
 
