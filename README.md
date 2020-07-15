@@ -24,7 +24,7 @@
 
 #### - 🥀 Learning Angular  <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/frameworks/angular.svg"></code>,JavaScript <code> <img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg"> </code> & Ajax <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/ajax.svg"></code>.
 
-#### - 🔭 Web FanBoi, 
+#### - 🔭 Tech FanBoi, 
 
 #### - 🛸 Into The Sea of InterNet 
 
