@@ -54,7 +54,7 @@
 
 
 
-> Refresh this page to see different Images https://github.com/boyknowstech/boyknowstech/blob/master/svg/blogs/Mario_Hello_Big.gif
+> Refresh this page to see different Images <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/blogs/Mario_Hello_Big.gif" width="30px"> 
 
 ![](https://bingimages.herokuapp.com/unsplash1)
 
