@@ -12,8 +12,7 @@
 <a href="https://www.hackerrank.com/sahilkathoke1999">
   <img align="left" alt="hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
-  
+ 
   ![](https://visitor-badge.glitch.me/badge?page_id=sahilknowstech.sahilknowstech)
 
 <br />
