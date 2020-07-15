@@ -14,7 +14,7 @@
 </a>
  
  
-   ![](https://visitor-badge.glitch.me/badge?page_id=sahilknowstech.sahilknowstech)
+   ![](https://visitor-badge.glitch.me/badge?page_id=boyknowstech.boyknowstech)
 
 <br />
 
@@ -30,8 +30,6 @@
 #### - 🛸 Into The Sea of InterNet 
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/social/twitter.svg" >](https://twitter.com/sahilkathoke/) [<img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/social/linkedin.svg" >](https://www.linkedin.com/sahil7066367404)
-
-[<img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/social/instagram." >](https://www.instagram.com/boyknowtech)
 
 
 *******************
