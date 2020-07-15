@@ -1,6 +1,5 @@
 ### Hi there, I'm [Sahil !](https://sahil.codes)👋.<img src="https://raw.githubusercontent.com/boyknowstech/boyknowstech/master/svg/pronouns/hehim.svg" >
 
-<br/>
 <a href="https://twitter.com/sahilkathoke">
   <img align="left" alt="Sahil Kathoke| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,13 +17,11 @@
 
 <br />
 
-***********************************
+*******************
 
 ### Hi, 🙋‍♂️, 
 
 ### I'm 21 years old Self-taught Full-Stack developer from India.
-<br />
-
 <br />
 
 #### - 🥀 Learning Angular  <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/frameworks/angular.svg"></code>,JavaScript <code> <img height="20" width="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg"> </code> & Ajax <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
@@ -38,8 +35,6 @@
 **I am Into , 🙏**
 
 **Web Development,Competetive Programming, Desktop Application, Machine Learning & Digital Marketing 😼**
-
-<br />
 
 **Languages and Tools:**  
 <p align="center">
@@ -59,9 +54,10 @@
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
+#### Thank You-🙏🏼
+
 
 ***********************************
 
-#### Thank You-🙏🏼
 
   
