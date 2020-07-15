@@ -58,35 +58,6 @@
 
 ![](https://bingimages.herokuapp.com/unsplash1)
 
-# What?
-we can  show dynamic Images on our github profile special repository ```githubhandle/githubhandle```
-by creating an API which returns different images
-
-example: 
-> using unsplash random images
-```md
-https://source.unsplash.com/random/800x400
-``` 
-will show a random image like this
-
-![](https://bingimages.herokuapp.com/unsplash2)
-
-Code Snippet for creating route in Express.js
-```js
-app.get("/unsplash", (req, res) => {
-  request("https://source.unsplash.com/random/800x200")
-    .on("response", response => {
-      response.headers['Cache-Control'] = 'max-age=0, no-cache, no-store, must-revalidate'
-    })
-    .pipe(res);
-})
-```
-
-
-
-
-
-
 
 
 #### Thank You-🙏🏼
