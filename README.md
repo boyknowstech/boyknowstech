@@ -54,7 +54,6 @@
 
 
 
-# Dynamic Github Profile
 > Refresh this page to see different Images
 
 ![](https://bingimages.herokuapp.com/unsplash1)
