@@ -1,4 +1,4 @@
-### Hi there, I'm [Sahil!](https://sahil.codes)(he/him) 👋 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/boyknowstech/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Sahil!](https://sahil.codes)(he/him) 👋 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
