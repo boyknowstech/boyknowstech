@@ -22,7 +22,7 @@
 ### I'm 21 years old Self-taught Full-Stack developer from India.
 <br />
 
-#### - 🥀 Learning Angular  <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/frameworks/angular.svg"></code>,JavaScript <code> <img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg"> </code> & Ajax <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/ajax.svg"></code>.
+#### - 🥀 Learning Angular  <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/frameworks/angular.svg"></code>,JavaScript <code> <img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg"> </code> & Web <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/misc/web.svg"></code>.
 
 #### - 🔭 Tech FanBoi, 
 
