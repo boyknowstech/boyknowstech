@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/sahil7066367404/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/boyknowstech/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://www.hackerrank.com/sahilkathoke1999">
   <img align="left" alt="hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
@@ -18,10 +15,10 @@
 
 ******************* 
 
-### I'm 21 years old Self-taught Full-Stack developer from India.
+### I'm 23 years old Self-taught Full-Stack developer from India.
 <br />
 
-#### - 🥀 Learning Angular  <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/frameworks/angular.svg"></code>,JavaScript <code> <img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg"> </code> & Web <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/misc/web.svg"></code>.
+#### - 🥀 Learning Spring  <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/frameworks/angular.svg"></code>,SpringBoot <code> <img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/java.svg"> </code> & Java <code><img height="20" src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/misc/web.svg"></code>.
 
 #### - 🔭 Tech FanBoi, 
 
@@ -34,11 +31,12 @@
 
 **I am Into , 🙏**
 
-**Web Development,Competetive Programming, Desktop Application, Machine Learning & Digital Marketing 😼**
+**Web Development, Front End Development, Back End Development, Desktop Application & Database Management 😼**
 
 **Languages and Tools:**  
 <p align="center">
 
+  
 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
 <img src="https://github.com/boyknowstech/boyknowstech/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -50,7 +48,7 @@
 
 <br>
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=boyknowstech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By SK](https://github-readme-stats.vercel.app/api?username=boyknowstech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
